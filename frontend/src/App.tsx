@@ -4,7 +4,7 @@ import { Login, Register } from './pages/AuthPages'
 import { Wrapper } from './components/basics'
 import { Suspense } from 'react'
 import { Home } from './pages/Home'
-import { Blog } from './pages/Blog'
+import Blog from './pages/Blog'
 
 function App() {
 
